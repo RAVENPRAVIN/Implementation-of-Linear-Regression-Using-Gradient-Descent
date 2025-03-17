@@ -98,7 +98,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![alt text](output.png)
 
 
 ## Result:
